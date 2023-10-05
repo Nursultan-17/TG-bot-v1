@@ -10,6 +10,16 @@ bot = telebot.TeleBot(token)
 file = open('cars.json', 'r', encoding='utf-8')
 cars = json.loads(file.read())
 file.close()
+
+# query = 'CREATE TABLE Users(' \
+#         'id SERIAL PRIMARY KEY,' \
+#         'name VARCHAR(50),' \
+#         'surname VARCHAR(50),' \
+#         'login VARCHAR(50),' \
+#         'password VARCHAR(64),' \
+#         'status VARCHAR(50)' \
+#         ')'
+
 authorized = False
 authorized_cr = False
 authorized_ad = False
