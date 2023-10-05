@@ -1,0 +1,102 @@
+[
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 2005,
+    "vin": "1GYS4BEF1ER917760",
+    "color": "green",
+    "price": 15600,
+    "mileage": 96549,
+    "condition": "excellent"
+  },
+  {
+    "make": "Saturn",
+    "model": "Ion",
+    "year": 2003,
+    "vin": "1G6DU6EV8A0608897",
+    "color": "green",
+    "price": 3500,
+    "mileage": 288111,
+    "condition": "poor"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "year": 2011,
+    "vin": "1ZVBP8JS9B5053558",
+    "color": "white",
+    "price": 7800,
+    "mileage": 193724,
+    "condition": "good"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GTC",
+    "year": 2012,
+    "vin": "JN8AF5MR4ET292755",
+    "color": "black",
+    "price": 68246,
+    "mileage": 103187,
+    "condition": "fair"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1965,
+    "vin": "19XFB4F23EE369616",
+    "color": "white",
+    "price": 20974,
+    "mileage": 131258,
+    "condition": "excellent"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Ascender",
+    "year": 2005,
+    "vin": "JTHBE1KS2B0690351",
+    "color": "white",
+    "price": 2300,
+    "mileage": 183671,
+    "condition": "excellent"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "year": 2005,
+    "vin": "19UUA66275A979643",
+    "color": "black",
+    "price": 13500,
+    "mileage": 20904,
+    "condition": "poor"
+  },
+  {
+    "make": "Ford",
+    "model": "E150",
+    "year": 2006,
+    "vin": "19XFA1E62BE403787",
+    "color": "blue",
+    "price": 12000,
+    "mileage": 116391,
+    "condition": "fair"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1987,
+    "vin": "1GT01ZCG1EF096154",
+    "color": "blue",
+    "price": 4300,
+    "mileage": 497177,
+    "condition": "poor"
+  },
+  {
+    "make": "Audi",
+    "model": "TT",
+    "year": 2008,
+    "vin": "5UXZV8C53DL642276",
+    "color": "green",
+    "price": 17000,
+    "mileage": 161010,
+    "condition": "good"
+  }
+]
